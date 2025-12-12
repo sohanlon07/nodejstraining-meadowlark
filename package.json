@@ -3,7 +3,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.22.1",
     "express-handlebars": "^7.1.2"
   },
   "devDependencies": {
